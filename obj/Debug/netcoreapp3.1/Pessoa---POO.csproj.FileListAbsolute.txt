@@ -1,0 +1,13 @@
+C:\Users\parra\OneDrive\Documentos\Senai\Pessoa---POO\bin\Debug\netcoreapp3.1\Pessoa---POO.exe
+C:\Users\parra\OneDrive\Documentos\Senai\Pessoa---POO\bin\Debug\netcoreapp3.1\Pessoa---POO.deps.json
+C:\Users\parra\OneDrive\Documentos\Senai\Pessoa---POO\bin\Debug\netcoreapp3.1\Pessoa---POO.runtimeconfig.json
+C:\Users\parra\OneDrive\Documentos\Senai\Pessoa---POO\bin\Debug\netcoreapp3.1\Pessoa---POO.runtimeconfig.dev.json
+C:\Users\parra\OneDrive\Documentos\Senai\Pessoa---POO\bin\Debug\netcoreapp3.1\Pessoa---POO.dll
+C:\Users\parra\OneDrive\Documentos\Senai\Pessoa---POO\bin\Debug\netcoreapp3.1\Pessoa---POO.pdb
+C:\Users\parra\OneDrive\Documentos\Senai\Pessoa---POO\obj\Debug\netcoreapp3.1\Pessoa---POO.csprojAssemblyReference.cache
+C:\Users\parra\OneDrive\Documentos\Senai\Pessoa---POO\obj\Debug\netcoreapp3.1\Pessoa---POO.AssemblyInfoInputs.cache
+C:\Users\parra\OneDrive\Documentos\Senai\Pessoa---POO\obj\Debug\netcoreapp3.1\Pessoa---POO.AssemblyInfo.cs
+C:\Users\parra\OneDrive\Documentos\Senai\Pessoa---POO\obj\Debug\netcoreapp3.1\Pessoa---POO.csproj.CoreCompileInputs.cache
+C:\Users\parra\OneDrive\Documentos\Senai\Pessoa---POO\obj\Debug\netcoreapp3.1\Pessoa---POO.dll
+C:\Users\parra\OneDrive\Documentos\Senai\Pessoa---POO\obj\Debug\netcoreapp3.1\Pessoa---POO.pdb
+C:\Users\parra\OneDrive\Documentos\Senai\Pessoa---POO\obj\Debug\netcoreapp3.1\Pessoa---POO.genruntimeconfig.cache
